@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm BrownTech👋
 ### Cybersecurity Analyst | Full-Stack Software Engineer
 
 I build secure, scalable software and break things (professionally) to find what others miss.
@@ -16,7 +16,7 @@ I build secure, scalable software and break things (professionally) to find what
 
 ## 🧑‍💻 About Me
 
-I'm a security-minded full-stack engineer with [X] years of experience designing, building, and securing web applications and infrastructure. I specialize in threat modeling, secure SDLC, penetration testing, and building resilient systems from the ground up — not bolting security on as an afterthought.
+I'm a security-minded full-stack engineer with 3 years of experience designing, building, and securing web applications and infrastructure. I specialize in threat modeling, secure SDLC, penetration testing, and building resilient systems from the ground up — not bolting security on as an afterthought.
 
 - 🔭 Currently working on: **[current project/role]**
 - 🌱 Currently studying: **[cert or skill, e.g. OSCP, Cloud Security]**
@@ -130,7 +130,7 @@ A Python service that ingests server/application logs and flags anomalous access
 
 I'm open to freelance security assessments, full-stack builds, and collaboration on open-source security tooling.
 
-📧 **Email:** you@example.com
+📧 **Email:** browntech001@gmail.com
 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 
